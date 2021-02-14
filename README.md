@@ -1,2 +1,2 @@
 # cs465-fullstack
-cs-465 full stack development with MEAN
+CS-465 Full Stack Development with MEAN
